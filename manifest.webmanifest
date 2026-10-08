@@ -1,0 +1,14 @@
+{
+  "name": "Undefeated",
+  "short_name": "Undefeated",
+  "description": "Draft legends from every season since 1940 and chase the perfect season.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0d0f13",
+  "theme_color": "#0d0f13",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
